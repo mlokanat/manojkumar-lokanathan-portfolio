@@ -1,6 +1,5 @@
 ---
 role: Professor of Artificial Intelligence
-avatar: 1517256553656.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -40,6 +39,7 @@ education:
 superuser: true
 highlight_name: true
 title: Nelson Bighetti
+avatar: 1517256553656.jpg
 email: ""
 ---
 
